@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Law_Project
-# Qiqi 
-=======
 <h1 align="center">Query and Extract: Refining Event Extraction as Type Oriented Binary Decoding
 </h1>
 
@@ -70,4 +66,3 @@ If you find this repo useful, please cite the following paper:
 
 Distributed under the MIT License.
 
->>>>>>> 16077c748d7b0275244f8ca6333185397d0354cb
